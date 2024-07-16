@@ -1,0 +1,32 @@
+UNIX
+2
+kuplung - 30000
+olaj - 5000
+vezérműtengely - 80000
+kézifék - 4000
+laprugó - 9000
+//////
+FORD márkaszerviz
+4
+kuplung - 50000
+lendkerék - 100000
+kettőstömegű lendkerék - 250000
+olaj - 2000
+vezérműtengely - 80000
+fékbetét - 25000
+izzókészlet - 8000
+//////
+CarFix
+3
+lendkerék - 60000
+kormánymű - 18000
+stabilizátor rúd - 8000
+gyertya - 5000
+turbófeltöltő - 250000
+//////
+Totalcar
+2
+hengerfej - 190000
+turbófeltöltő - 150000
+futómű - 20000
+//////
